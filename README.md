@@ -21,8 +21,8 @@ I am highly motivated to learn new technologies and techniques to improve my ski
 <br/>  
 
 
-## Path ahead  
-<table border><tr><td valign="top" width="50%">
+## 🎯 Path ahead  
+<table ><tr  ><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [sample online shop](https://github.com/ghmasood/Digikala-Checkout-Discovery)  
   
@@ -37,7 +37,7 @@ I am highly motivated to learn new technologies and techniques to improve my ski
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif" align="center" style="width: 100%" />
+<img src="https://jaredmezz.com/programmer-transparent.gif" align="center" style="width: 100%" />
 </div>  
 
 
