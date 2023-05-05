@@ -2,7 +2,7 @@
   
 
 <a href="https://github.com/ghmasood" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="max-width: 100%;border-radius: 10px;" />
 </a>
 <a href="https://linkedin.com/in/ghmasoud" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -21,8 +21,8 @@ I am highly motivated to learn new technologies and techniques to improve my ski
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## Path ahead  
+<table border><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [sample online shop](https://github.com/ghmasood/Digikala-Checkout-Discovery)  
   
@@ -46,7 +46,7 @@ I am highly motivated to learn new technologies and techniques to improve my ski
 <br/>  
 
 
-## Languages and Tools  
+## 💻 Languages and Tools  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -59,7 +59,7 @@ I am highly motivated to learn new technologies and techniques to improve my ski
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
-    <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="40" width="52" alt="Chartjs Logo"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="40" width="52" alt="Chartjs Logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
@@ -77,17 +77,17 @@ I am highly motivated to learn new technologies and techniques to improve my ski
 
 ## 👨🏻‍💻 GitHub Usage stats
 
-<table  border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="33%">
+<table  border=0 cellspacing="0" cellpadding="0">
+  <tr border=none cellspacing="0" cellpadding="0">
+    <td valign="top" width="33%" border="0" cellspacing="0" cellpadding="0">
 <img src="https://github-readme-stats.vercel.app/api?username=ghmasood&theme=graywhite&show_icons=true&hide_border=true&count_private=true" align="left" style="width: 100%" />
 </td>
     
-  <td valign="top" width="33%">
+  <td valign="top" width="33%" border=none cellspacing="0" cellpadding="0">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghmasood&theme=graywhite&show_icons=true&hide_border=true&layout=compact" align="center" />
 
 </td>
-  <td valign="top" width="33%">
+  <td valign="top" width="33%" border=none cellspacing="0" cellpadding="0">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghmasood&theme=graywhite&hide_border=true" align="right" />
 
