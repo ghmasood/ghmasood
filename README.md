@@ -24,7 +24,7 @@ I am highly motivated to learn new technologies and techniques to improve my ski
 ## 🎯 Path ahead  
 <table ><tr  ><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [sample online shop](https://github.com/ghmasood/Digikala-Checkout-Discovery)  
+- 🔭 I’m currently working on [Jabam Code Challenge](https://github.com/ghmasood/jabama-code-challenge)  
   
 
 - 🌱  I'm planing to extend my knowledge in this area with learning:  
