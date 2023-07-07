@@ -13,9 +13,9 @@
   
 
 
-I am a junior front-end developer with around one year and a few months of experience. I am familiar with React, Next.js, and TypeScript, and I am passionate about designing responsive and user-friendly interfaces. I have utilized these skills in various projects throughout my career.
-
-I am highly motivated to learn new technologies and techniques to improve my skills. In my previous roles, I have collaborated with designers and back-end developers to ensure seamless web application development.  
+Highly motivated front-end developer with extensive experience in React, Next.is, Redux, and TypeScript. Excels in creating visually appealing and user-friendly interfaces byleveraging
+a background in graphic design. Committed to continuously enhancing skills and keeping up with thelatest advancements in technology. Adept
+at collaborating with teams to deliver exceptional results.
   
 
 <br/>  
@@ -24,7 +24,7 @@ I am highly motivated to learn new technologies and techniques to improve my ski
 ## 🎯 Path ahead  
 <table ><tr  ><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Iran Reasercher]([https://github.com/ghmasood/iran-reasercher](http://github.com/ghmasood/iran-researcher/)) blog platform. 
+- 🔭 I’m currently working on [Iran Reasercher](http://github.com/ghmasood/iran-researcher/) blog platform. 
   
 
 - 🌱  I'm planing to extend my knowledge in this area with learning:  
